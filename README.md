@@ -35,10 +35,31 @@ Results: The analysis showed how policies and leadership styles of presidents in
 Indonesia's Population with Formal Basic Education and Education Gap
 coode : https://github.com/b12halflife/Bima-Darmaja-Suryatama---Data-Analyst/tree/main/Penduduk%20dunia%20dengan%20pendidikan%20dasar%20formal
 
-The chart in this project clearly shows that Indonesia made substantial progress in reducing the number of out-of-school children, both male and female, particularly from 2000 to 2010. Malaysia consistently maintained a very low number of out-of-school children throughout the period, indicating a strong education system and high enrollment rates.
+The chart in this project fcust on shows that Indonesia made substantial progress in reducing the number of out-of-school children, both male and female, particularly from 2000 to 2010 by 2%.
 
 Skills: Data cleaning, data analysis, hypothesis testing, data visualization
 
 Technology: Python, Pandas, Matplotlib
 
 Results: Indonesia showed considerable improvement in formal education between 1970 and 2000. However, from 2012 to the present, the number of out-of-school children remained higher compared to Malaysia, which consistently maintained low numbers throughout the period.
+
+---
+
+Education
+University of Pamulang (UNPAM), TEKNIK INFORMATIKA S1, PRESENT
+SMA MUHAMADIAH 8 PAMULANG, JURUSAN IPA
+
+---
+
+Certificates
+The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
+
+DeepLearning.AI TensorFlow Developer(Sep 2023) (Coursera - Google) https://coursera.org/share/e072b99df055498ffadc0f47e74bb9ac
+Mathematics for Machine Learning (Sep 2023 ) (Coursera - Google) https://coursera.org/share/05160fd517820ca2e296795ce0c09850
+Python for Data Science (Feb 2023) (Coursera - University of Colorado Boulder) https://academy.dqlab.id/Certificate_check/result/DQLABINTR1OSDBLM#mycertificate
+
+===
+
+Contacts
+LinkedIn: @Bima-Darmaja-suryatama www.linkedin.com/in/bima-darmaja-suryatama-2b6768279
+Email: bimadarmaja12@gmail.com
